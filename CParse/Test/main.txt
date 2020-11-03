@@ -1,0 +1,79 @@
+
+
+// basic variable
+ReturnValueCompare
+Test/function_parameter_call.c
+59
+
+// compound + complex level variable
+ReturnValueCompare
+Test/variable_multi_level.c
+260
+
+
+// + - * / function
+ReturnValueCompare
+Test/express_func.c
+3
+
+// + - * /
+ReturnValueCompare
+Test/expression_conversion.c
+0
+
+// >> / % >
+ReturnValueCompare
+Test/expression_unsigned_operator.c
+0
+
+// constant
+ReturnValueCompare
+Test/expression_constant.c
+0
+
+
+// if while do-while for
+ReturnValueCompare
+Test/statement_if_do_while_for.c
+30
+
+
+// ptr
+ReturnValueCompare
+Test/type_pointer.c
+1
+
+// arr + for + sizeof(Array)
+ReturnValueCompare
+Test/variable_array_adv.c
+0
+
+// arr + for
+ReturnValueCompare
+Test/variable_array_simple.c
+0
+
+
+// overload
+ReturnValueCompare
+Test/function_overload.c
+10
+
+
+// struct sizeof . ->
+ReturnValueCompare
+Test/struct_sizeof_ptr_assign.c
+0
+
+
+// error : 1 = 2
+CompileErrorCompare
+Test/expression_exception_NoLeftValue.c
+NoLeftValueException
+
+
+// enum
+ReturnValueCompare
+Test/enum.c
+0
+

@@ -1,0 +1,337 @@
+﻿  command.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(879): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1134): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1137): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stack(90): note: 参见对正在编译的函数 模板 实例化“void std::deque<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  f:\programme\yacctest\yacctest\parse\parse.h(114): note: 参见对正在编译的函数 模板 实例化“void std::stack<StatusId,std::deque<_Ty,std::allocator<_Ty>>>::emplace<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  data.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(879): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1134): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1137): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stack(90): note: 参见对正在编译的函数 模板 实例化“void std::deque<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  f:\programme\yacctest\yacctest\parse\parse.h(114): note: 参见对正在编译的函数 模板 实例化“void std::stack<StatusId,std::deque<_Ty,std::allocator<_Ty>>>::emplace<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  function.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(879): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1134): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1137): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stack(90): note: 参见对正在编译的函数 模板 实例化“void std::deque<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  f:\programme\yacctest\yacctest\parse\parse.h(114): note: 参见对正在编译的函数 模板 实例化“void std::stack<StatusId,std::deque<_Ty,std::allocator<_Ty>>>::emplace<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  identifier.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(879): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1134): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1137): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stack(90): note: 参见对正在编译的函数 模板 实例化“void std::deque<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  f:\programme\yacctest\yacctest\parse\parse.h(114): note: 参见对正在编译的函数 模板 实例化“void std::stack<StatusId,std::deque<_Ty,std::allocator<_Ty>>>::emplace<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  parse.cpp
+f:\programme\yacctest\yacctest\reduce_expression.h(329): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\programme\yacctest\yacctest\reduce_expression.h(350): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(879): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1134): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1137): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stack(90): note: 参见对正在编译的函数 模板 实例化“void std::deque<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  f:\programme\yacctest\yacctest\parse\parse.h(114): note: 参见对正在编译的函数 模板 实例化“void std::stack<StatusId,std::deque<_Ty,std::allocator<_Ty>>>::emplace<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  parseInit.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(879): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1134): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1137): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stack(90): note: 参见对正在编译的函数 模板 实例化“void std::deque<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  f:\programme\yacctest\yacctest\parse\parse.h(114): note: 参见对正在编译的函数 模板 实例化“void std::stack<StatusId,std::deque<_Ty,std::allocator<_Ty>>>::emplace<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  main.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(879): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1134): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1137): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stack(90): note: 参见对正在编译的函数 模板 实例化“void std::deque<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  f:\programme\yacctest\yacctest\parse\parse.h(114): note: 参见对正在编译的函数 模板 实例化“void std::stack<StatusId,std::deque<_Ty,std::allocator<_Ty>>>::emplace<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  type.cpp
+f:\programme\yacctest\yacctest\type.cpp(120): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(879): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1134): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1137): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stack(90): note: 参见对正在编译的函数 模板 实例化“void std::deque<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  f:\programme\yacctest\yacctest\parse\parse.h(114): note: 参见对正在编译的函数 模板 实例化“void std::stack<StatusId,std::deque<_Ty,std::allocator<_Ty>>>::emplace<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  var.cpp
+f:\programme\yacctest\yacctest\var.cpp(92): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(879): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1134): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1137): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stack(90): note: 参见对正在编译的函数 模板 实例化“void std::deque<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  f:\programme\yacctest\yacctest\parse\parse.h(114): note: 参见对正在编译的函数 模板 实例化“void std::stack<StatusId,std::deque<_Ty,std::allocator<_Ty>>>::emplace<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  vm.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(879): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1134): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1137): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stack(90): note: 参见对正在编译的函数 模板 实例化“void std::deque<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  f:\programme\yacctest\yacctest\parse\parse.h(114): note: 参见对正在编译的函数 模板 实例化“void std::stack<StatusId,std::deque<_Ty,std::allocator<_Ty>>>::emplace<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  word.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(879): warning C4267: “初始化”: 从“size_t”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1134): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\deque(1137): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,size_t&>(_Alloc &,_Objty *const ,size_t &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=StatusId,
+              _Objty=StatusId
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stack(90): note: 参见对正在编译的函数 模板 实例化“void std::deque<_Ty,std::allocator<_Ty>>::emplace_back<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  f:\programme\yacctest\yacctest\parse\parse.h(114): note: 参见对正在编译的函数 模板 实例化“void std::stack<StatusId,std::deque<_Ty,std::allocator<_Ty>>>::emplace<size_t&>(size_t &)”的引用
+          with
+          [
+              _Ty=StatusId
+          ]
+  wordDFA.cpp
+  正在生成代码...
+  YaccTest.vcxproj -> F:\Programme\YaccTest\x64\Debug\YaccTest.exe

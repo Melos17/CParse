@@ -1,0 +1,9 @@
+
+// main + var + return
+ReturnValueCompare
+Test/base_return_var.c
+100
+
+// printf "pass if shows 0:0"
+SmokeTest
+Test/base_printf.c
